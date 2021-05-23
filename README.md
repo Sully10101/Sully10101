@@ -1,1 +1,3 @@
 Journey to a career in PHP development...
+
+Time to take the first step, let's see how long I can go. Back to basics first.
