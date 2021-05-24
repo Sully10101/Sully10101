@@ -22,3 +22,4 @@ it works, ignore.txt dosen't show when i run 'git status'
 	
 gonna call it a day, its 1am and i got work 2morrow	
   
+25/05/2021
