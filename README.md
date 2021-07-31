@@ -1,3 +1,4 @@
-Journey to (hopefully) a career in PHP development...
+Professional Magento 2 Freelance Developer...
+Contact me for pricing pls
+(note: i am not cheap)
 
-https://docs.google.com/document/d/1OxzOSgS6s4Js74XZdgLuFLCEGro3DW8ROcIUxx8SVl8/edit?usp=sharing
